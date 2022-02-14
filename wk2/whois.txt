@@ -1,0 +1,343 @@
+#IP Address Look-Up
+
+blacktech.ca
+
+Raw Whois Data
+Domain Name: blacktech.ca
+Registry Domain ID: 59548047-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: ca.godaddy.com
+Updated Date: 2020-05-07T16:29:13Z
+Creation Date: 2018-05-06T04:04:42Z
+Registry Expiry Date: 2022-05-06T04:04:42Z
+Registrar: Go Daddy Domains Canada, Inc
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: REDACTED FOR PRIVACY
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: REDACTED FOR PRIVACY
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: REDACTED FOR PRIVACY
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: Please ask the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Other contacts of the queried domain name
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: Please ask the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Other contacts of the queried domain name
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: Please ask the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Other contacts of the queried domain name
+Registry Billing ID: REDACTED FOR PRIVACY
+Billing Name: REDACTED FOR PRIVACY
+Billing Organization: REDACTED FOR PRIVACY
+Billing Street: REDACTED FOR PRIVACY
+Billing City: REDACTED FOR PRIVACY
+Billing State/Province: REDACTED FOR PRIVACY
+Billing Postal Code: REDACTED FOR PRIVACY
+Billing Country: REDACTED FOR PRIVACY
+Billing Phone: REDACTED FOR PRIVACY
+Billing Phone Ext: REDACTED FOR PRIVACY
+Billing Fax: REDACTED FOR PRIVACY
+Billing Fax Ext: REDACTED FOR PRIVACY
+Billing Email: Please ask the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Other contacts of the queried domain name
+Name Server: ns69.domaincontrol.com
+Name Server: ns70.domaincontrol.com
+DNSSEC: unsigned
+
+
+
+bestbuy.ca
+
+Raw Whois Data
+Domain Name: bestbuy.ca
+Registry Domain ID: D228248-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: Markmonitor.com
+Updated Date: 2021-06-11T04:00:40Z
+Creation Date: 2000-10-17T19:41:32Z
+Registry Expiry Date: 2023-06-11T04:00:00Z
+Registrar: MarkMonitor International Canada Ltd.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 16320911-CIRA
+Registrant Name: Best Buy Canada Ltd.
+Registrant Organization:
+Registrant Street: 8800 Glenlyon Pkwy
+Registrant City: Burnaby
+Registrant State/Province: BC
+Registrant Postal Code: V5J5K3
+Registrant Country: CA
+Registrant Phone: +1.6044121864
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: email@bestbuycanada.ca
+Registry Admin ID: 16474269-CIRA
+Admin Name: Chris Vadneau
+Admin Organization: Best Buy Canada Ltd.
+Admin Street: 8800 Glenlyon Pkwy
+Admin City: Burnaby
+Admin State/Province: BC
+Admin Postal Code: V5J5K3
+Admin Country: CA
+Admin Phone: +1.8883888887
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: email@bestbuycanada.ca
+Registry Tech ID: 16474269-CIRA
+Tech Name: Chris Vadneau
+Tech Organization: Best Buy Canada Ltd.
+Tech Street: 8800 Glenlyon Pkwy
+Tech City: Burnaby
+Tech State/Province: BC
+Tech Postal Code: V5J5K3
+Tech Country: CA
+Tech Phone: +1.8883888887
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: email@bestbuycanada.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: asia3.akam.net
+Name Server: eur1.akam.net
+Name Server: eur2.akam.net
+Name Server: ns1-118.akam.net
+Name Server: ns1-119.akam.net
+Name Server: usc2.akam.net
+Name Server: use1.akam.net
+Name Server: usw2.akam.net
+DNSSEC: unsigned
+
+
+amazon.ca
+
+Raw Whois Data
+Domain Name: amazon.ca
+Registry Domain ID: D237-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: Markmonitor.com
+Updated Date: 2021-07-16T04:00:08Z
+Creation Date: 2000-09-19T18:44:39Z
+Registry Expiry Date: 2024-07-16T04:00:00Z
+Registrar: MarkMonitor International Canada Ltd.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 16390820-CIRA
+Registrant Name: Amazon Technologies, Inc. TMA499121
+Registrant Organization:
+Registrant Street: PO Box 8102
+Registrant City: Reno
+Registrant State/Province: NV
+Registrant Postal Code: 91423
+Registrant Country: US
+Registrant Phone: +1.2062664064
+Registrant Phone Ext:
+Registrant Fax: +1.2062667010
+Registrant Fax Ext:
+Registrant Email: email@amazon.com
+Registry Admin ID: 16310044-CIRA
+Admin Name: David C Arnett
+Admin Organization: Amazon Technologies, Inc. TMA499121
+Admin Street: PO Box 8102
+Admin City: Reno
+Admin State/Province: NV
+Admin Postal Code: 91423
+Admin Country: US
+Admin Phone: +1.2062664064
+Admin Phone Ext:
+Admin Fax: +1.2062667010
+Admin Fax Ext:
+Admin Email: email@amazon.com
+Registry Tech ID: 16310044-CIRA
+Tech Name: David C Arnett
+Tech Organization: Amazon Technologies, Inc. TMA499121
+Tech Street: PO Box 8102
+Tech City: Reno
+Tech State/Province: NV
+Tech Postal Code: 91423
+Tech Country: US
+Tech Phone: +1.2062664064
+Tech Phone Ext:
+Tech Fax: +1.2062667010
+Tech Fax Ext:
+Tech Email: email@amazon.com
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.p31.dynect.net
+Name Server: ns2.p31.dynect.net
+Name Server: pdns1.ultradns.net
+Name Server: pdns3.ultradns.org
+Name Server: pdns4.ultradns.org
+Name Server: pdns5.ultradns.info
+DNSSEC: unsigned
+
+
+
+ganz.com
+
+Raw Whois Data
+Domain Name: ganz.com
+Registry Domain ID: 3272542_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: https://www.godaddy.com
+Updated Date: 2022-01-29T12:32:44Z
+Creation Date: 1999-01-28T00:00:00Z
+Registrar Registration Expiration Date: 2023-01-28T00:00:00Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: email@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registrant Organization: Ganz Inc
+Registrant State/Province: Ontario
+Registrant Country: CA
+Registrant Email: Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=ganz.com
+Tech Email: Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=ganz.com
+Admin Email: Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=ganz.com
+Name Server: NS6.GANZ.COM
+Name Server: NS9.GANZ.COM
+Name Server: NS1-07.AZURE-DNS.COM
+DNSSEC: unsigned
+
+
+
+virginplus.ca
+
+Raw Whois Data
+Domain Name: virginplus.ca
+Registry Domain ID: 80597030-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: http://domainhelp.tucows.com
+Updated Date: 2022-01-10T16:22:39Z
+Creation Date: 2020-02-28T11:01:24Z
+Registry Expiry Date: 2023-02-28T11:01:24Z
+Registrar: Tucows.com Co.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: 101406881-CIRA
+Registrant Name: Domain Manager
+Registrant Organization: Virgin Enterprises Limited
+Registrant Street: The Battleship Building, 179 Harrow Road
+Registrant City: London
+Registrant State/Province: London
+Registrant Postal Code: W26NB
+Registrant Country: GB
+Registrant Phone: +44.2073132000
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: email@virgin.com
+Registry Admin ID: 101406882-CIRA
+Admin Name: Domain Manager
+Admin Organization: Virgin Enterprises Limited
+Admin Street: The Battleship Building, 179 Harrow Road
+Admin City: London
+Admin State/Province: London
+Admin Postal Code: W26NB
+Admin Country: GB
+Admin Phone: +44.2073132000
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: email@virgin.com
+Registry Tech ID: 101406883-CIRA
+Tech Name: Technical Manager
+Tech Organization: Com Laude
+Tech Street: 28-30 Little Russell Street
+Tech City: London
+Tech State/Province: London
+Tech Postal Code: WC1A2HN
+Tech Country: GB
+Tech Phone: +44.2074218250
+Tech Phone Ext:
+Tech Fax: +44.8700118187
+Tech Fax Ext:
+Tech Email: email@comlaude.com
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: toroon63nszp04.srvr.bell.ca
+Name Server: toroondcnszs04.srvr.bell.ca
+DNSSEC: unsigned

@@ -1,0 +1,12 @@
+tracert 142.93.159.86
+
+Tracing route to 142.93.159.86 over a maximum of 30 hops
+
+  1    16 ms    11 ms    13 ms  ip-143-110-208-47.lazerpenguin.com [143.110.208.47]
+  2     *        *        *     Request timed out.
+  3    15 ms    19 ms    17 ms  10.78.5.125
+  4     *        *        *     Request timed out.
+  5    19 ms    20 ms    22 ms  10.78.6.73
+  6    16 ms    14 ms    25 ms  142.93.159.86
+
+Trace complete.

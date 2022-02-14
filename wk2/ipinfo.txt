@@ -1,0 +1,28 @@
+#get ip of domain
+
+#online service used: https://ipinfo.info/html/ip_checker.php
+
+
+georgebrown.ca
+IP Address: 99.79.139.11
+Geolocation: US (United States), WA, Washington, 98108 Seattle
+
+
+classier.ca
+IP Address: 142.93.144.147
+Geolocation: CA (Canada), ON, Ontario, M5B Toronto
+
+
+seneca.ca
+IP Address: 104.196.33.139
+Geolocation: US (United States), VA, Virginia
+
+
+bullcaptain.ca
+IP Address: 216.239.32.21
+Geolocation: US (United States), CA, California, 94608 Emeryville
+
+
+walmart.ca
+IP Address: 161.170.248.216
+Geolocation: US (United States), AR, Arkansas, 72712 Bentonville

@@ -1,0 +1,12 @@
+ping 142.93.159.86
+
+Pinging 142.93.159.86 with 32 bytes of data:
+Reply from 142.93.159.86: bytes=32 time=18ms TTL=61
+Reply from 142.93.159.86: bytes=32 time=12ms TTL=61
+Reply from 142.93.159.86: bytes=32 time=14ms TTL=61
+Reply from 142.93.159.86: bytes=32 time=14ms TTL=61
+
+Ping statistics for 142.93.159.86:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 12ms, Maximum = 18ms, Average = 14ms

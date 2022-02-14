@@ -1,0 +1,17 @@
+#Any Host Server Test
+
+ping 216.239.32.21 -w 7
+
+
+PING 216.239.32.21 (216.239.32.21) 56(84) bytes of data.
+64 bytes from 216.239.32.21: icmp_seq=1 ttl=121 time=1.21 ms
+64 bytes from 216.239.32.21: icmp_seq=2 ttl=121 time=0.650 ms
+64 bytes from 216.239.32.21: icmp_seq=3 ttl=121 time=0.515 ms
+64 bytes from 216.239.32.21: icmp_seq=4 ttl=121 time=0.554 ms
+64 bytes from 216.239.32.21: icmp_seq=5 ttl=121 time=0.558 ms
+64 bytes from 216.239.32.21: icmp_seq=6 ttl=121 time=0.600 ms
+64 bytes from 216.239.32.21: icmp_seq=7 ttl=121 time=0.596 ms
+
+--- 216.239.32.21 ping statistics ---
+7 packets transmitted, 7 received, 0% packet loss, time 6099ms
+rtt min/avg/max/mdev = 0.515/0.669/1.212/0.225 ms

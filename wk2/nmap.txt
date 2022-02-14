@@ -1,0 +1,72 @@
+nmap www.google.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-02-04 17:07 UTC
+Nmap scan report for www.google.com (142.251.32.68)
+Host is up (0.0014s latency).
+Other addresses for www.google.com (not scanned): 2607:f8b0:400b:807::2004
+rDNS record for 142.251.32.68: yyz12s07-in-f4.1e100.net
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 4.12 seconds
+
+
+nmap www.blacktech.ca
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-02-04 17:08 UTC
+Nmap scan report for www.blacktech.ca (198.185.159.145)
+Host is up (0.019s latency).
+Other addresses for www.blacktech.ca (not scanned): 198.185.159.144 198.49.23.145 198.49.23.144
+Not shown: 997 filtered ports
+PORT     STATE  SERVICE
+80/tcp   open   http
+443/tcp  open   https
+2030/tcp closed device2
+
+Nmap done: 1 IP address (1 host up) scanned in 4.73 seconds
+
+
+nmap 216.239.32.21
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-02-04 17:09 UTC
+Nmap scan report for any-in-2015.1e100.net (216.239.32.21)
+Host is up (0.00096s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 4.57 seconds
+
+
+nmap -p 80 216.239.32.21
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-02-04 17:13 UTC
+Nmap scan report for any-in-2015.1e100.net (216.239.32.21)
+Host is up (0.0012s latency).
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 0.05 seconds
+
+
+nmap -p 400-1000 216.239.32.21
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-02-04 17:14 UTC
+Nmap scan report for any-in-2015.1e100.net (216.239.32.21)
+Host is up (0.0013s latency).
+Not shown: 600 filtered ports
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 3.18 seconds
+
+
+nmap -F 216.239.32.21
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-02-04 17:15 UTC
+Nmap scan report for any-in-2015.1e100.net (216.239.32.21)
+Host is up (0.0010s latency).
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 1.87 seconds
