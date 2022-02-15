@@ -1,0 +1,38 @@
+COMMAND:
+capture filter set to 'udp' 
+and
+display filter set to 'ip.dst== 142.93.159.86'
+where 142.93.159.86 is the droplet server IP.
+
+INFORMATION REQUESTED:
+1 one un
+2 two deux
+3 three trio
+4 four quatre
+5 five cinq
+6 six six
+7 seven sept
+8 eight huit
+9 nine neuf
+10 ten dix
+
+
+
+OUTPUT:
+UDP data
+(image attached - step_1.png)
+
+
+Packet log (slightly modified)
+
+From IP		From Port	To IP	To Port	Method	Error	ASCII		Hex
+mine		58077	142.93.159.86	6000	UDP		10 ten dix	31 30 20 74 65 6e 20 64 69 78 	
+mine		58077	142.93.159.86	6000	UDP		9 nine neuf	39 20 6e 69 6e 65 20 6e 65 75 66 	
+mine		58077	142.93.159.86	6000	UDP		8 eight huit	38 20 65 69 67 68 74 20 68 75 69 74 	
+mine		58077	142.93.159.86	6000	UDP		7 seven sept	37 20 73 65 76 65 6e 20 73 65 70 74 	
+mine		58077	142.93.159.86	6000	UDP		6 six six	36 20 73 69 78 20 73 69 78 	
+mine		58077	142.93.159.86	3000	UDP		5 five cinq	35 20 66 69 76 65 20 63 69 6e 71 	
+mine		58077	142.93.159.86	3000	UDP		4 four quatre	34 20 66 6f 75 72 20 71 75 61 74 72 65 	
+mine		58077	142.93.159.86	3000	UDP		3 three trio	33 20 74 68 72 65 65 20 74 72 69 6f 	
+mine		58077	142.93.159.86	3000	UDP		2 two deux	32 20 74 77 6f 20 64 65 75 78 	
+mine		58077	142.93.159.86	3000	UDP		1 one un	31 20 6f 6e 65 20 75 6e 	
