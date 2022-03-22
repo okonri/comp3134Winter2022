@@ -1,0 +1,1 @@
+tcmdump -w all_traffic_YYYYMMDD_HHMM
