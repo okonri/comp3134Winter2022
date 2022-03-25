@@ -1,0 +1,7 @@
+• What you see on the browser (the issue)
+
+Displayed on the browser are several directories from the 'var' directory.
+
+• What sensitive information is given by this page
+
+The directory names are revealed and these directories are usually named according to the type of files they contain. e.g. backup, log, www.

@@ -1,0 +1,25 @@
+1) Navigate to the form and type a valid English word. Write your observations.
+
+The form took the input word and displayed the meaning of the word.
+
+
+2) Navigate to the URL and type an invalid English word after the `/browse/` section of the URL. Write your observations
+
+I was showed a message saying that "No results found for zxhgtjklm"
+from this location: https://www.dictionary.com/noresult?term=zxhgtjklm
+
+
+3) Navigate to the form and type the following text: <script>alert(%27hello%27)</script>
+Write your observations.
+
+The form input value changed to "<script>alert('hello')</script>" and I was shown the message 
+"Results for <script>alert('hello')</script>:"
+But no results shown.
+
+
+Page displayed this message "Results for <script>alert('hello')</script>:"
+But no results shown.
+
+
+4) Navigate to the URL and type the following text: <script>alert(%27hello%27)</script>
+after the `term=` section of the URL. Write your observations.

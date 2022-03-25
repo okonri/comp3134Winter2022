@@ -1,0 +1,2 @@
+Issue: important employee data revealed in html comment.
+Solution: html comments converted to php comments which are unseen by browsers.

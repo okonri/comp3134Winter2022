@@ -1,0 +1,4 @@
+Difference between stripping tags or displaying the html entity value of 
+any user input:
+When applied, strip tags remove HTML, XML and php tags.
+On the other hand, displaying the html entity value of users' input converts the input to a html-like formats.

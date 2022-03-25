@@ -1,0 +1,7 @@
+• What you see on the browser (the issue)
+
+An array of data from a query result.
+
+• What sensitive information is given by this page
+
+The location and directory name of the web application.

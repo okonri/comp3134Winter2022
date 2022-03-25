@@ -1,0 +1,8 @@
+• What you see on the browser (the issue)
+
+There is a warning message from the scandir function showing that the request cannot be found or opened.
+
+
+• What sensitive information is given by this page
+
+The directory path or structure/tree is revealed in the warning message.

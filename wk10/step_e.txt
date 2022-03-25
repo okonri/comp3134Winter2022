@@ -1,0 +1,10 @@
+• Should not be able to view files and folders before html directory
+Using basename() function, I checked to confirm the current path and directory and show the contents, and otherwise do not show.
+
+
+• Should not attempt to look at folders that do not exists
+Taking the path variable as input, I use the relevang functions - file_exists() - to check and confirm that the file being requested is actually available.
+
+
+• BONUS, do not allow user to pass a filename
+I checked the for filename since files normally ends with an extension after a dot. Look for dot in parameter
