@@ -1,0 +1,1 @@
+The content of the file, which is a javascript code, is read immediately and hence executed which redirects to the page requested by the script. Security and privacy is compromised.

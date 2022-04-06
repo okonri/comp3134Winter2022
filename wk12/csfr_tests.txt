@@ -1,0 +1,2 @@
+With csfr_form.php, login was unsuccess and did not execute since the provided session ID is different from the expected session ID. 
+With csfr.html, login succeeded since session IDs were not checked.
