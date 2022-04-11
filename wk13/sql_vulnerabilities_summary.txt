@@ -1,0 +1,17 @@
+G. Testing and Exploiting SQL Vulnerabilities
+
+1. On typing 'Ben', no result was displayed; this is as expected since this user has 0 as his active value while the query searches for 1 active values.
+
+2. On typing 'Ben'-- ', the user 'ben' was displayed which is not as expected since the query is only users whose active value is 1.
+
+
+3. 1. On typing 'Ben’ or 1=1', no result was displayed; this is as expected since this user has 0 as his active value while the query searches for 1 active values.
+
+
+
+H. Mitigate SQL Injections
+
+Observations:
+
+In all 3 scenarios, no results were displayed.
+Prepared statement sanitized the input 'Ben'-- ' and closed the loophole of returning unexpected results.
